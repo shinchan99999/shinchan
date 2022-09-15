@@ -5,7 +5,7 @@ module.exports = {
   title: "Polygon Technology | Documentation",
   tagline: "Welcome to Polygon developer documentation",
   url: "https://docs.polygon.technology/",
-  baseUrl: "/",
+  baseUrl: "",
   favicon: "img/polygon/polygon-logo.svg",
   organizationName: "Polygon Technology",
   projectName: "matic-docs",
